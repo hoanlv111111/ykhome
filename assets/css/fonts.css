@@ -1,0 +1,113 @@
+@font-face {
+    font-family: 'UTMAvo';
+    src: url('../fonts/UTMAvo.woff2') format('woff2'),
+        url('../fonts/UTMAvo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'UTM HelvetIns';
+    src: url('../fonts/UTMHelvetIns.woff2') format('woff2'),
+        url('../fonts/UTMHelvetIns.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'UTMAvoBold';
+    src: url('../fonts/UTMAvoBold.woff2') format('woff2'),
+        url('../fonts/UTMAvoBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-display:block;
+    font-family: 'RobotoMedium';
+    src: url('../fonts/RobotoMedium.woff2') format('woff2'),
+         url('../fonts/RobotoMedium.woff') format('woff');
+}
+@font-face {
+    font-display:block;
+    font-family: 'RobotoRegular';
+    src: url('../fonts/RobotoRegular.woff2') format('woff2'),
+         url('../fonts/RobotoRegular.woff') format('woff');
+}
+@font-face {
+    font-display:block;
+    font-family: 'RobotoBold';
+    src: url('../fonts/RobotoBold.woff2') format('woff2'),
+         url('../fonts/RobotoBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'RobotoLight';
+    src: url('../fonts/RobotoLight.woff2') format('woff2'),
+         url('../fonts/RobotoLight.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Muli-Bold';
+    src: url('../fonts/Muli-Bold.woff2') format('woff2'),
+        url('../fonts/Muli-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli-SemiBold';
+    src: url('../fonts/Muli-SemiBold.woff2') format('woff2'),
+        url('../fonts/Muli-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli-Regular';
+    src: url('../fonts/Muli-Regular.woff2') format('woff2'),
+        url('../fonts/Muli-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFUEurostile-Bold';
+    src: url('../fonts/SFUEurostileBold.woff2') format('woff2'),
+        url('../fonts/SFUEurostileBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFUEurostile-Condensed';
+    src: url('../fonts/SFUEurostileCondensed.woff2') format('woff2'),
+        url('../fonts/SFUEurostileCondensed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UTM Beautiful Caps';
+    src: url('../fonts/UTMBeautifulCaps.woff2') format('woff2'),
+        url('../fonts/UTMBeautifulCaps.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: SFUFuturaBold;
+    src        : url("../fonts/SFUFuturaBold.TTF");
+}
+@font-face {
+    font-family: SFUFuturaRegular;
+    src        : url("../fonts/SFUFuturaRegular.TTF");
+}
